@@ -1,0 +1,9 @@
+com/productRest/config/WebApplicationContextConfig.class
+com/productRest/dao/ProductDaoImpl.class
+com/productRest/config/RootApplicationContextConfig.class
+com/productRest/domain/Product.class
+com/productRest/controller/ProductController.class
+com/productRest/service/ProductService.class
+com/productRest/service/ProductServiceImpl.class
+com/productRest/dao/ProductDao.class
+com/productRest/config/DispatcherServletInitializer.class
